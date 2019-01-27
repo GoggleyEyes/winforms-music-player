@@ -8,6 +8,7 @@ namespace MusicPlayer
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// Added a test comment
         [STAThread]
         static void Main()
         {
