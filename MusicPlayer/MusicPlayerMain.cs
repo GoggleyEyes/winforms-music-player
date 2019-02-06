@@ -497,8 +497,12 @@ namespace MusicPlayer
             player.Dispose();
         }
 
+
         #endregion Event Handlers
 
+        private void label1_Click(object sender, EventArgs e)
+        {
 
+        }
     }
 }
