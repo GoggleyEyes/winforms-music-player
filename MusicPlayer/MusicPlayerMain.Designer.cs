@@ -314,9 +314,9 @@
             this.label1.ForeColor = System.Drawing.Color.Red;
             this.label1.Location = new System.Drawing.Point(444, 92);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(66, 13);
+            this.label1.Size = new System.Drawing.Size(124, 13);
             this.label1.TabIndex = 14;
-            this.label1.Text = "Test Update";
+            this.label1.Text = "Test Update with jenkins";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // MusicPlayerMain
